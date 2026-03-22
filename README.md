@@ -66,16 +66,6 @@ Example labels:
 
 Pathway definitions are based on the KEGG_2021_Human collection.
 
-
-
-## Execution Strategy
-
-Due to computational constraints, experiments are designed to run with a single L1 regularization value per execution.
-
-Multiple configurations should be executed separately.
-
-
-
 ## Methodological Features
 
 * Pathway-level representation instead of gene-level features
@@ -83,13 +73,4 @@ Multiple configurations should be executed separately.
 * Sparse and interpretable learning via L1 regularization
 * Stability analysis through repeated runs
 * Integration of biological knowledge into machine learning
-
-## Reproducibility
-
-To reproduce the experiments:
-
-1. Apply identical preprocessing steps
-2. Ensure correct label standardization
-3. Use consistent random seeds
-4. Execute repeated runs
 
