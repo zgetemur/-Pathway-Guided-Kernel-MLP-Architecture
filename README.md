@@ -1,4 +1,4 @@
-# Pathway-Guided Kernel-MLP for Cross-Disease Transcriptomic Analysis
+# Pathway Guided Kernel MLP for Cross Disease Transcriptomic Analysis
 
 A biologically informed **Kernel-MLP framework** for transcriptomic modeling and cross-disease transfer learning.
 
