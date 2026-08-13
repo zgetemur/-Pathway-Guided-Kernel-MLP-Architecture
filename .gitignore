@@ -1,0 +1,6 @@
+*.xlsx
+!Active_Top*_Pathways.xlsx
+!*Summary*.xlsx
+!*Overview*.xlsx
+venv/
+.ipynb_checkpoints/
